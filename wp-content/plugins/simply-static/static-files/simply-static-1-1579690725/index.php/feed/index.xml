@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>haydigencler</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Ben Sporcunun Zeki, Çevik ve ahlaklısını severim.</description>
+	<lastBuildDate>Fri, 03 Jan 2020 19:14:49 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Merhaba dünya!</title>
+		<link>/index.php/2020/01/03/merhaba-dunya/</link>
+				<comments>/index.php/2020/01/03/merhaba-dunya/#comments</comments>
+				<pubDate>Fri, 03 Jan 2020 19:14:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+
+		<guid isPermaLink="false">/?p=1</guid>
+				<description><![CDATA[WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!]]></description>
+								<content:encoded><![CDATA[
+<p>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</p>
+]]></content:encoded>
+							<wfw:commentRss>/index.php/2020/01/03/merhaba-dunya/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
